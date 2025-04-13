@@ -1,7 +1,7 @@
 streamlit
 numpy
 pandas
-scipy
+scipy>=1.10.0
 matplotlib
 wordcloud
 joblib
