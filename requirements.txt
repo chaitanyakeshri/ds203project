@@ -6,3 +6,4 @@ matplotlib>=3.5.0
 wordcloud
 scikit-learn
 joblib
+gensim>=4.3.0
