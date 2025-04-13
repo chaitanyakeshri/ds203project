@@ -66,7 +66,7 @@ radii = [np.sqrt(size / np.pi) / 100 for size in sizes]
 
 # Non-overlapping positions
 positions = []
-rng = np.random.default_rng(42)
+rng = np.random.default_rng(47)
 max_attempts = 1000
 
 for i in range(len(session_ids)):
