@@ -5,3 +5,4 @@ scipy
 matplotlib
 wordcloud
 joblib
+gensim
